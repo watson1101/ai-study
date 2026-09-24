@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+
+# Gradio runtime cache
+.gradio/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
