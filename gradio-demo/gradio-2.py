@@ -37,5 +37,5 @@ demo = gradio.Interface(
     title="图像转铅笔画"
 )
 
-# 启动web应用，自动打开浏览器
+# 启动web应用，打开浏览器
 demo.launch()
