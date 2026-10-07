@@ -11,3 +11,7 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/
+
+# Environment secrets
+.env
+.env.*
